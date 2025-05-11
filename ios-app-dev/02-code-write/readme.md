@@ -1,0 +1,1 @@
+新建rules文档，让trae知道你这个项目是ios app 
